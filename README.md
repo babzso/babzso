@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @babzso
 - 👀 I’m interested in many different thigs as a mid-aged fellow
-- 🌱 I’m currently learning python and go to create my interactive webpage on Udemy
+- 🌱 I’m currently learning coding on Udemy with focus on python and golang to create my interactive webpage. Not sure which language to choose before completing the courses.
 - 💞️ I’m not looking to collaborate just yet
 - 📫 
 
